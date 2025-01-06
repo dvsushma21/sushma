@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6bafbc7797f65210295b39ee2153af6c" label="training" max_length="40" name="x_snc_sushmademo_training" type="collection">
+        <element attributes="encode_utf8=false" label="Requested by" max_length="32" name="requested_by" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <index name="index">
+            <element name="requested_by"/>
+        </index>
+    </element>
+</database>
