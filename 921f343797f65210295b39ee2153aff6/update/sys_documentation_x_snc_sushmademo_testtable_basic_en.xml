@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="basic" label="Basic" language="en" table="x_snc_sushmademo_testtable">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>basic</element>
+            <help/>
+            <hint/>
+            <label>Basic</label>
+            <language>en</language>
+            <name>x_snc_sushmademo_testtable</name>
+            <plural>Basics</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>sushmadonthamsetty.v@snc</sys_created_by>
+            <sys_created_on>2025-01-06 14:22:39</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Basic</sys_name>
+            <sys_package display_value="sushmademo" source="x_snc_sushmademo">921f343797f65210295b39ee2153aff6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sushmademo">921f343797f65210295b39ee2153aff6</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_sushmademo_testtable_basic_en</sys_update_name>
+            <sys_updated_by>sushmadonthamsetty.v@snc</sys_updated_by>
+            <sys_updated_on>2025-01-06 14:22:39</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

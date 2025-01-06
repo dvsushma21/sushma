@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ca574dff97f65210295b39ee2153af2f" label="testing" max_length="40" name="x_snc_sushmademo_testing" type="collection">
+        <element label="fruit" max_length="40" name="fruit" type="string"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+        <element label="number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
